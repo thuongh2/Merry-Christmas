@@ -1,5 +1,5 @@
 var sound = new Howl({
-    urls: ['lastchrismas.mp3'],
+    urls: ['../song/lastchrismas.mp3'],
     loop: true
   });
 
